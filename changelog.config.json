@@ -23,7 +23,7 @@
     "issues",
     "lerna"
   ],
-  "scopes": ["leftDrawer", "table", "map", "graph", "graphQL"],
+  "scopes": ["", "leftDrawer", "table", "map", "graph", "graphQL"],
   "types": {
     "chore": {
       "description": "Build process or auxiliary tool changes",
