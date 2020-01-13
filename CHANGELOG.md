@@ -2,6 +2,29 @@
 
 All notable changes to this Gatekeeper project will be documented in this file.
 
+## [0.1.2](https://github.com/jesuskata/test-newchangelog/compare/0.1.1...0.1.2) - 2020-01-13
+
+### Merged
+
+- Add a new feature [`#4`](https://github.com/jesuskata/test-newchangelog/pull/4)
+
+### All Commits
+
+- feat(table): 🎸 add a new button [`fe16e46`](https://github.com/jesuskata/test-newchangelog/commit/fe16e46bb62c85008ca14646bc218b52ce65b21a)
+- refactor: 💡 add regex additions on the message [`1de9e82`](https://github.com/jesuskata/test-newchangelog/commit/1de9e822253e1699f4c738078058ca409076312b)
+- feat(abc): add feat [`e71313d`](https://github.com/jesuskata/test-newchangelog/commit/e71313dc79619f932a2468ecb78293d34b16a705)
+- feat: add the last CHANGELOG generated [`9dd276a`](https://github.com/jesuskata/test-newchangelog/commit/9dd276ad752e28fa971f5b2f3d75cac0ade9ad0c)
+
+### feat
+
+- feat(table): 🎸 add a new button [`fe16e46`](https://github.com/jesuskata/test-newchangelog/commit/fe16e46bb62c85008ca14646bc218b52ce65b21a)
+- feat(abc): add feat [`e71313d`](https://github.com/jesuskata/test-newchangelog/commit/e71313dc79619f932a2468ecb78293d34b16a705)
+- feat: add the last CHANGELOG generated [`9dd276a`](https://github.com/jesuskata/test-newchangelog/commit/9dd276ad752e28fa971f5b2f3d75cac0ade9ad0c)
+
+### refactor
+
+- refactor: 💡 add regex additions on the message [`1de9e82`](https://github.com/jesuskata/test-newchangelog/commit/1de9e822253e1699f4c738078058ca409076312b)
+
 ## [0.1.1](https://github.com/jesuskata/test-newchangelog/compare/0.1.0...0.1.1) - 2020-01-11
 
 ### Merged
