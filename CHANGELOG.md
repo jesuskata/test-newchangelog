@@ -2,6 +2,25 @@
 
 All notable changes to this Gatekeeper project will be documented in this file.
 
+## [Unreleased](https://github.com/jesuskata/test-newchangelog/compare/0.1.2...HEAD)
+
+### All Commits
+
+- refactor: 💡 include the empty option on the scopes [`603d673`](https://github.com/jesuskata/test-newchangelog/commit/603d673fea261823d5aca1776ca23737f1397e2c)
+- refactor(map): 💡 include regex to the commit names [`1151871`](https://github.com/jesuskata/test-newchangelog/commit/1151871909789ca7cc04783bd3d1c6eda91a558a)
+- refactor(map): 💡 add some other configurations [`4e69c9f`](https://github.com/jesuskata/test-newchangelog/commit/4e69c9f20f0008cb30e84c9388aa7d46a5fe225e)
+- docs(map): ✏️ add the changelog [`39d5e45`](https://github.com/jesuskata/test-newchangelog/commit/39d5e454708b83aaf6b0985ebb9ceec2918eb8ca)
+
+### docs
+
+- docs(map): ✏️ add the changelog [`39d5e45`](https://github.com/jesuskata/test-newchangelog/commit/39d5e454708b83aaf6b0985ebb9ceec2918eb8ca)
+
+### refactor
+
+- refactor: 💡 include the empty option on the scopes [`603d673`](https://github.com/jesuskata/test-newchangelog/commit/603d673fea261823d5aca1776ca23737f1397e2c)
+- refactor(map): 💡 include regex to the commit names [`1151871`](https://github.com/jesuskata/test-newchangelog/commit/1151871909789ca7cc04783bd3d1c6eda91a558a)
+- refactor(map): 💡 add some other configurations [`4e69c9f`](https://github.com/jesuskata/test-newchangelog/commit/4e69c9f20f0008cb30e84c9388aa7d46a5fe225e)
+
 ## [0.1.2](https://github.com/jesuskata/test-newchangelog/compare/0.1.1...0.1.2) - 2020-01-13
 
 ### Merged
