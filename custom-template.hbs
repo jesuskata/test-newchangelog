@@ -44,32 +44,42 @@ All notable changes to this Gatekeeper project will be documented in this file.
   {{/commit-list}}
 
   {{! List commits that add new features, but not those already listed above }}
-  {{#commit-list commits heading='### docs' message='docs: '}}
+  {{#commit-list commits heading='### docs' message='^docs: |^docs.*: '}}
     - {{subject}} [`{{shorthash}}`]({{href}})
   {{/commit-list}}
 
   {{! List commits that add new features, but not those already listed above }}
-  {{#commit-list commits heading='### style' message='style: '}}
+  {{#commit-list commits heading='### style' message='^style: |^style.*: '}}
     - {{subject}} [`{{shorthash}}`]({{href}})
   {{/commit-list}}
 
   {{! List commits that add new features, but not those already listed above }}
-  {{#commit-list commits heading='### refactor' message='refactor: '}}
+  {{#commit-list commits heading='### refactor' message='^refactor: |^refactor.*: '}}
     - {{subject}} [`{{shorthash}}`]({{href}})
   {{/commit-list}}
 
   {{! List commits that add new features, but not those already listed above }}
-  {{#commit-list commits heading='### perf' message='perf: '}}
+  {{#commit-list commits heading='### perf' message='^perf: |^perf.*: '}}
     - {{subject}} [`{{shorthash}}`]({{href}})
   {{/commit-list}}
 
   {{! List commits that add new features, but not those already listed above }}
-  {{#commit-list commits heading='### test' message='test: '}}
+  {{#commit-list commits heading='### test' message='^test: |^test.*: '}}
     - {{subject}} [`{{shorthash}}`]({{href}})
   {{/commit-list}}
 
   {{! List commits that add new features, but not those already listed above }}
-  {{#commit-list commits heading='### chore' message='chore: '}}
+  {{#commit-list commits heading='### release' message='^release: |^release.*: '}}
+    - {{subject}} [`{{shorthash}}`]({{href}})
+  {{/commit-list}}
+
+  {{! List commits that add new features, but not those already listed above }}
+  {{#commit-list commits heading='### chore' message='^chore: |^chore.*: '}}
+    - {{subject}} [`{{shorthash}}`]({{href}})
+  {{/commit-list}}
+
+  {{! List commits that add new features, but not those already listed above }}
+  {{#commit-list commits heading='### ci' message='^ci: |^ci.*: '}}
     - {{subject}} [`{{shorthash}}`]({{href}})
   {{/commit-list}}
 
